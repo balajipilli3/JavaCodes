@@ -1,0 +1,29 @@
+banglore is capital
+hi
+hello
+Four Values:
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+1. individuals n interaction over processes and tools
+2. working software over comprehensive documentation
+3. Customer collaborative over contract negotiation
+4. Responding changes
+
+
+ 12 principles of agile:
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-__-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_--_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+1. Satisfy customer
+2. Welcome changing even if it is delay
+3. Deliver working software frequently each week, monthly..
+4. Business people n developers work together throughout project
+5. Build project around motivated individuals. Give them environment, support they need... N trust them..
+6. face to face conversation : efficient n effective method of conveying info to n within a development team
+7. working software : measure of progress
+8. promote Sustainable development
+9. continuous attention : agility
+10. Simplicity
+11. self organization: architecture, designers
+12. regular interval => more effective
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_

@@ -1,7 +1,7 @@
 public class datatypes {
     public static void main(String[] args) {
         boolean b=true;
-        byte a=127;
+        byte a=125;
         short s=12389;
         int i=12345;
         long l=123458l;
